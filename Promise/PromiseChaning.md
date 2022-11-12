@@ -69,4 +69,4 @@ const usePromise = () => {
 
 <br>
 
-### 🔗[처음으로](https://github.com/kyw0716/modern-javascript-study)
+### 🏠[처음으로](https://github.com/kyw0716/modern-javascript-study)
