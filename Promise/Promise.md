@@ -62,3 +62,7 @@ const fancyFunction = async () => {
 <br>
 
 간단히 생각해서 `then`함수의 콜백은 `resolve`가 호출됐을 때 실행되고, `catch`함수의 콜백은 `reject`가 호출됐을 때 실행된다. `finally`라는 함수도 있지만 얘는 그냥 `Promise`의 처리가 완료되면 실행되는 녀석이라고만 알아두면 된다.
+
+<br>
+
+### 🔗[처음으로](https://github.com/kyw0716/modern-javascript-study)

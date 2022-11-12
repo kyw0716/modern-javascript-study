@@ -66,3 +66,7 @@ const usePromise = () => {
 ```
 
 매 `then`마다 `setTimeout`을 통해 2초의 지연시간을 만들어주면 된다.
+
+<br>
+
+### 🔗[처음으로](https://github.com/kyw0716/modern-javascript-study)
