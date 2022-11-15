@@ -6,4 +6,4 @@
 
 ## 2. [프로미스 체이닝](https://github.com/kyw0716/modern-javascript-study/blob/main/Promise/PromiseChaning.md)
 
-## 3. [프로미스 에러 핸들링]()
+## 3. [프로미스 에러 핸들링](https://github.com/kyw0716/modern-javascript-study/blob/main/Promise/ErrorHandling.md)
