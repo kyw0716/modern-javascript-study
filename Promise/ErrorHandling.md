@@ -104,7 +104,7 @@ new Promise((resolve, reject) => {
 
 ### 4️⃣ 처리되지 못한 거부
 
-만약 여러번의 `catch`에도 처리되지 못한 에러가 있을 수 있다. 이러한 에러를 브라우저 환경에서는 `unhandledrejection` 이벤트를 사용해 전역적으로 처리해줄 수 있다.
+만약 여러번의 `catch`에도 처리되지 못한 에러가 있을 수 있다. 이러한 에러를 브라우저 환경에서는 `unhandledrejection` 이벤트를 사용해 전역적으로 처리해 줄 수 있다.
 
 ```javascript
 window.addEventListener("unhandledrejection", function (event) {
